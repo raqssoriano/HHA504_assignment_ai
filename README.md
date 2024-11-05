@@ -67,4 +67,31 @@
 
 ## • GCP Vision API
 
+- (1) I navigated to **`Google Cloud Console`** ➙ searched for **`Vision AI API`** in the search bar ➙ ensured the APIs are enabled. See the screenshots below.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/1.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/2.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/3.png" width="650" />.
+
+- (2) In the same notebook I created for the speech-to-text task, I accessed the **`raqs-gcp-ai-hw`** notebook ➙ opened the **`Jupyterlab`** notebook ➙ uploaded a sample image from my local machine ➙ and installed the **`google cloud vision`** package using pip.
+  
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/4.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/5.png" width="650" />.
+
+- (3) Initially, I was having issues running the script I copied from the Google Cloud tutorials, which I modified to match my needs. To succesfully run my script, I had to **add roles** and enable the **Cloud Vision API**. See the screenshots below.
+    
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/6.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/7.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/8.png" width="650" />.
+
+- (4) After multiple attempts at troubleshooting, I successfully ran the script and achieved the desired results. The image I used was very simple and straightforward, and I must say the detected object was accurate..
+  
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/9.png" width="650" />.
+
+
 
