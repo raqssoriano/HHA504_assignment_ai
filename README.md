@@ -2,7 +2,7 @@
 # **HHA504 || Exploring AI and Analytics with Pre-trained Models in Azure and GCP**
 ---
 
-#### **🎯** This task is part of my assignment focused on using pre-trained machine learning models in Azure and Google Cloud Platform (GCP). I am learning to utilize cloud-based notebooks to interact with these models, focusing on their [**`speech recognition`**](https://github.com/raqssoriano/HHA504_assignment_ai/tree/main#-pre-trained-speech-model), [**`GCP vision`**](https://github.com/raqssoriano/HHA504_assignment_ai/edit/main/README.md#-pre-trained-vision-models), and [**`Azure vision`**](https://github.com/raqssoriano/HHA504_assignment_ai/edit/main/README.md#-azure-ai-vision) capabilities.
+#### **🎯** This task is part of my assignment focused on using pre-trained machine learning models in Azure and Google Cloud Platform (GCP). I am learning to utilize cloud-based notebooks to interact with these models, focusing on their [**`speech recognition`**](https://github.com/raqssoriano/HHA504_assignment_ai/tree/main#-pre-trained-speech-model), [**`GCP vision`**](https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/README.md#-gcp-vision-api), and [**`Azure vision`**](https://github.com/raqssoriano/HHA504_assignment_ai/edit/main/README.md#-azure-ai-vision) capabilities.
 
 ---
 ---
