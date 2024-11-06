@@ -77,6 +77,8 @@
 
 - (2) In the same notebook I created for the speech-to-text task, I accessed the **`raqs-gcp-ai-hw`** notebook ➙ opened the **`Jupyterlab`** notebook ➙ uploaded a sample image from my local machine ➙ and installed the **`google cloud vision`** package using pip.
   
+    Please click on the [**sample image used for object detection**](https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/softserve.jpeg) to complete this task.
+  
     <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/4.png" width="650" />.
 
     <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/GCP%20Vision%20API/5.png" width="650" />.
