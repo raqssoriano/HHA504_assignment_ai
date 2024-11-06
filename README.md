@@ -98,4 +98,21 @@
 
 ## • Azure AI Vision
 
+- (1) I navigated to **`Azure portal`** ➙ searched for **`AI Machine Learning Studio`** in the search bar ➙ inside the AI machine learning studio, I created a new workspace named **`raqs-azure-ai-hw`** and used the default configuration settings.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/Azure%20AI%20Vision/1.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/Azure%20AI%20Vision/2.png" width="500" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/Azure%20AI%20Vision/3.png" width="650" />.
+
+- (2) I created a new compute instance inside the newly created workspace named **`raqs-azure-ai-hw`**
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/Azure%20AI%20Vision/4.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/Azure%20AI%20Vision/5.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/Azure%20AI%20Vision/6.png" width="650" />.
+
+    <img src="https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/Azure%20AI%20Vision/7.png" width="650" />.
 
