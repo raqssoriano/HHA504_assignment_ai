@@ -136,7 +136,7 @@
 
 ---
 
-# ☞ _**GCP vs. Azure and My Reflections Working on these Platforms in Speech & Vision Models on These Platforms**_
+# ☞ _**GCP vs. Azure and My Reflections Working in Speech & Vision Models on These Platforms**_
 
 ---
 
