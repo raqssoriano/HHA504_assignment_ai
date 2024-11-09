@@ -4,7 +4,7 @@
 
 #### **🎯** This task is part of my assignment focused on using pre-trained machine learning models in Azure and Google Cloud Platform (GCP). I am learning to utilize cloud-based notebooks to interact with these models, focusing on their [**`speech recognition`**](https://github.com/raqssoriano/HHA504_assignment_ai/tree/main#-pre-trained-speech-model), [**`GCP vision`**](https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/README.md#-gcp-vision-api), and [**`Azure vision`**](https://github.com/raqssoriano/HHA504_assignment_ai/blob/main/README.md#-azure-ai-vision) capabilities.
 
-#### **📌** The [Comparison between GCP and Azure](https://github.com/raqssoriano/HHA504_assignment_ai/edit/main/README.md#-gcp-vs-azure-and-my-reflections-working-on-these-platforms-in-speech--vision-models-on-these-platforms) and my [final thoughts](https://github.com/raqssoriano/HHA504_assignment_ai/edit/main/README.md#-my-final-thoughts-) on using these two platforms to complete this assignment.
+#### **📌** The [Comparison between GCP and Azure](https://github.com/raqssoriano/HHA504_assignment_ai#-gcp-vs-azure-and-my-reflections-working-in-speech--vision-models-on-these-platforms) and my [final thoughts](https://github.com/raqssoriano/HHA504_assignment_ai#-my-final-thoughts-) on using these two platforms to complete this assignment.
 
 ---
 ---
